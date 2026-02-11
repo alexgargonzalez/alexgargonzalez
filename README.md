@@ -26,7 +26,7 @@ Me apasiona construir soluciones web robustas, escalables y eficientes. Mi enfoq
 ## 📈 Un poco sobre mí...
 
 - 🔭 **Proyectos actuales:** Desarrollando aplicaciones fullstack con Laravel y desplegando en entornos.
-- 📫 **Contacto:** [alexgargonzalez@hotmail.com]
+- 📫 **Contacto:** alexgargonzalez@hotmail.com
 
 ---
 
