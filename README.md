@@ -31,5 +31,8 @@ Me apasiona construir soluciones web robustas, escalables y eficientes. Mi enfoq
 ---
 
 ## 📊 Estadísticas de GitHub
-![Estadísticas de Alejandro](https://github-readme-stats.vercel.app/api?username=alexgargonzalez&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgargonzalez&layout=compact&theme=radical)****
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=alexgargonzalez&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Alejandro" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgargonzalez&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+</p>
